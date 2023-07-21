@@ -1,0 +1,27 @@
+[
+  {
+    "host": "02-sg-hcst-001.passstage.cloud",
+    "port": 9034,
+    "path": "/statusapi/v1/stats"
+  },
+  {
+    "host": "02-pd-wlst-010.passepartout.cloud",
+    "port": 9007,
+    "path": "/api/admin/serverStatus"
+  },
+  {
+    "host": "02-pd-wlez-005.passepartout.cloud",
+    "port": 9002,
+    "path": "/api/admin/serverStatus"
+  },
+  {
+    "host": "02-sg-wlst-333.passstage.cloud",
+    "port": 9117,
+    "path": "/api/admin/serverStatus"
+  },
+  {
+    "host": "02-pd-hcst-004.passepartout.cloud",
+    "port": 9004,
+    "path": "/statusapi/v1/stats"
+  }
+]
